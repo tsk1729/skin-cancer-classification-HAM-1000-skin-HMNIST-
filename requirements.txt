@@ -1,0 +1,12 @@
+numpy
+pandas
+tensorflow==2.8.0
+cudNN==8.1
+cuda==11.2
+PIL
+glob
+plotly
+seaborn
+sklearn
+keras
+matplotlib
